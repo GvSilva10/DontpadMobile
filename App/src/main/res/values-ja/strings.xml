@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dontpad Mobile</string>
+    <string name="dicaTagTexto">テキストのタグを入力してください</string>
+    <string name="erro_firebase">単語を取得するエラー</string>
+    <string name="action_settings">設定</string>
+</resources>

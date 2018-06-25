@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dontpad Mobile</string>
+    <string name="dicaTagTexto">Ingresa una etiqueta para tu texto</string>
+    <string name="erro_firebase">Error al obtener las palabras</string>
+    <string name="action_settings">Configuraciones</string>
+</resources>

@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "133218065921",
+    "firebase_url": "https://dontpadmobile.firebaseio.com",
+    "project_id": "dontpadmobile",
+    "storage_bucket": "dontpadmobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133218065921:android:2cfc0e84acbe2c6d",
+        "android_client_info": {
+          "package_name": "com.example.gabriel.dontpadmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133218065921-gp00vnnmfev4ka36j7efuvno7lqcrv9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gabriel.dontpadmobile",
+            "certificate_hash": "98084ca22e106b78561bdd82d2287d81bed9c669"
+          }
+        },
+        {
+          "client_id": "133218065921-m2ke9ihva895hkqrvukvslt0cdu68l0o.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "133218065921-m2ke9ihva895hkqrvukvslt0cdu68l0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvP_h-rssGx55k7-QqNM6M09PoyjqW55E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133218065921-m2ke9ihva895hkqrvukvslt0cdu68l0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
